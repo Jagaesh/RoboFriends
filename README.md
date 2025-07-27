@@ -1,6 +1,6 @@
 # RoboFriends
 
-RoboFriends is a fast and responsive React web app that displays a list of robot profiles fetched from an API, with real-time search functionality.
+[RoboFriends](https://jagaesh.github.io/RoboFriends) is a fast and responsive React web app that displays a list of robot profiles fetched from an API, with real-time search functionality.
 
 ## Preview
 
@@ -8,17 +8,17 @@ RoboFriends is a fast and responsive React web app that displays a list of robot
 
 ## Features
 
-- Simple and responsive UI
 - Real-time search filtering
 - Data fetched from [RoboHash API](https://robohash.org/)
 - Built with modern React (components, props, state, hooks)
+- Simple and responsive UI
 
 ## Tech Stack
 
 - React
 - JavaScript (ES6+)
 - HTML & CSS
-- [API](https://jsonplaceholder.typicode.com/users)
+- API : [users data](https://jsonplaceholder.typicode.com/users)
 
 ## Getting Started
 
