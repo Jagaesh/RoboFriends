@@ -2,13 +2,9 @@
 
 RoboFriends is a fast and responsive React web app that displays a list of robot profiles fetched from an API, with real-time search functionality.
 
----
-
 ## 📸 Preview
 
 ![RoboFriends App Screenshot](./assets/robofriends-screenshot.png)
-
----
 
 ## 🌟 Features
 
@@ -18,17 +14,12 @@ RoboFriends is a fast and responsive React web app that displays a list of robot
 - 🎨 Simple and clean responsive UI
 - 💡 Great starting point for learning React fundamentals
 
----
-
 ## 🚀 Tech Stack
 
 - React (with JSX and functional components)
 - JavaScript (ES6+)
 - HTML & CSS
 - API: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
-
-
----
 
 ## 📁 Getting Started
 
