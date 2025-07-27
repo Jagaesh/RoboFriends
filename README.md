@@ -1,12 +1,41 @@
-# React + Vite
+# 🤖 RoboFriends
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RoboFriends is a fast and responsive React web app that displays a list of robot profiles fetched from an API, with real-time search functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![RoboFriends App Screenshot](./assets/robofriends-screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌟 Features
+
+- 🔍 Real-time search filtering
+- 📡 Data fetched from [RoboHash API](https://robohash.org/)
+- ⚛️ Built with modern React (components, props, state)
+- 🎨 Simple and clean responsive UI
+- 💡 Great starting point for learning React fundamentals
+
+---
+
+## 🚀 Tech Stack
+
+- React (with JSX and functional components)
+- JavaScript (ES6+)
+- HTML & CSS
+- API: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+
+
+---
+
+## 📁 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Jagaesh/RoboFriends.git
+cd robofriends
+npm install
+npm run dev
