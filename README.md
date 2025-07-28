@@ -18,7 +18,7 @@
 - React
 - JavaScript (ES6+)
 - HTML & CSS
-- API : [users data](https://jsonplaceholder.typicode.com/users)
+- API with [users data](https://jsonplaceholder.typicode.com/users)
 
 ## Getting Started
 
