@@ -25,7 +25,7 @@
 To run the project locally:
 
 ```bash
-git clone https://github.com/Jagaesh/RoboFriends.git
+git clone https://github.com/Jagaesh/robofriends.git
 cd robofriends
 npm install
 npm run dev
