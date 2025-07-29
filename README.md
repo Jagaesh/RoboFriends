@@ -1,6 +1,6 @@
 # RoboFriends
 
-[RoboFriends](https://jagaesh.github.io/RoboFriends) is a fast and responsive React web app that displays a list of robot profiles fetched from an API, with real-time search functionality.
+[RoboFriends](https://jagaesh.github.io/robofriends) is a fast and responsive React web app that displays a list of robot profiles fetched from an API, with real-time search functionality.
 
 ## Preview
 
