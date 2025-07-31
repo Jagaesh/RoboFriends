@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jagaesh.github.io/RoboFriends/",
+  "homepage": "https://jagaesh.github.io/robofriends/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
